@@ -1,0 +1,2639 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                150.604,
+                -34.915
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Great Southern Motorcycles",
+             "dealerAddress": "188 Princes Hwy, South Nowra, NSW 2541",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 4422 8889 ",
+             "dealerURL": "https://suzukimotorcycles.com.au/dealer/mcm-sales-and-service/",
+             "dealerID": 2,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                149.713,
+                -34.757
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Goulburn Power Centre",
+             "dealerAddress": "58-60 Clinton St, Goulburn, NSW 2580",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "8:30am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 4821 1866 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/goulburn-power-centre/",
+             "dealerID": 4,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                146.266,
+                -20.077
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Gold City Motorcycles",
+             "dealerAddress": "226 Gill St, Charters Towers, QLD 4820",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "8:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 4787 2288 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/gold-city-motorcycles/",
+             "dealerID": 5,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                151.266,
+                -23.851
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Gladstone Motorcycles",
+             "dealerAddress": "54-58 Toolooa Street, Gladstone, QLD 4680",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "8:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 4972 9944",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/gladstone-motorcycles/",
+             "dealerID": 6,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                151.951,
+                -27.55
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Elite Motorcycles",
+             "dealerAddress": "90 Mort St, Toowoomba, QLD 4350",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "8:30am - 12:30pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 4632 5579 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/elite-motorcycles/",
+             "dealerID": 8,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                142.164,
+                -34.184
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Deakin Motorcycles",
+             "dealerAddress": "24-28 Deakin Avenue, Mildura, VIC 3500",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "9:00am - 5:30pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 5022 7088",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/deakin-motorcycles/",
+             "dealerID": 9,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                148.773,
+                -26.58
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "D & R’s Motorcycles",
+             "dealerAddress": "192 Raglan St, Roma, QLD 4455",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 4622 5710 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/d-rs-motorcycles/",
+             "dealerID": 10,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                147.133,
+                -41.41
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Cycle World",
+             "dealerAddress": "196 Invermay Road, Invermay, TAS 7248",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "9:00am - 5:30pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 6326 2729 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/cycle-world/",
+             "dealerID": 11,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                143.582,
+                -38.34
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Colac Motorcycles",
+             "dealerAddress": "258 Murray Street, Colac, VIC 3250",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 5231 1083",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/colac-motorcycles/",
+             "dealerID": 12,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                145.122,
+                -40.849
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Circular Head Motorcycles",
+             "dealerAddress": "79 Nelson Street, Smithton, TAS 7330",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:00pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 6452 3422",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/circular-head-motorcycles/",
+             "dealerID": 14,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                145.945,
+                -38.167
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Christensens Motorcycles",
+             "dealerAddress": "177 Queen Street, Warragul, VIC 3820",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:30pm",
+             "dealerHoursSat": "9:00 am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 5623 2173",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/christensens-motorcycles/",
+             "dealerID": 15,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                151.363,
+                -32.829
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Chris Watson Motorcycles",
+             "dealerAddress": "279 Maitland Road, Cessnock, NSW 2325",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30 am - 5:00pm",
+             "dealerHoursSat": "8:30 am - 12:30pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 4991 2566 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/chris-watson-motorcycles/",
+             "dealerID": 16,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                150.509,
+                -24.403
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Callide Valley Mower Service",
+             "dealerAddress": "2 Raedon St, Biloela, QLD 4715",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 4992 1494",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/callide-valley-mower-service/",
+             "dealerID": 17,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                145.146,
+                -38.119
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Byrners Suzuki",
+             "dealerAddress": "4 Klauer Street, Seaford, VIC 3198",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "9:00am - 2:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 9786 9000",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/byrners-suzuki/",
+             "dealerID": 18,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                147.408,
+                -19.572
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Burdekin Powersports",
+             "dealerAddress": "61 Queen Street, Ayr, QLD 4807",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00 am - 5:00pm",
+             "dealerHoursSat": "8:30 am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 4783 1892 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/burdekin-powersports/",
+             "dealerID": 19,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                149.179,
+                -21.143
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Mackay Motorcycles",
+             "dealerAddress": "26 Peel Street, Mackay, QLD 4740",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "8:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 4957 2411",
+             "dealerURL": "",
+             "dealerID": 21,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                152.951,
+                -27.08
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Brisbane Motorcycles Caboolture",
+             "dealerAddress": "1/42 Beerburrum Road, Caboolture, QLD 4510",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00 am - 5:30pm",
+             "dealerHoursSat": "8:00 am - 4:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 5499 0733",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/brisbane-motorcycles-caboolture/",
+             "dealerID": 22,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                151.745,
+                -32.911
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Brisan Motorcycles",
+             "dealerAddress": "250 Maitland Road, Islington, NSW 2296",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:00pm",
+             "dealerHoursSat": "8:30am - 4:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 4940 8777 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/brisan-motorcycles/",
+             "dealerID": 23,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                139.255,
+                -35.127
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Bridgeland Motorcycles",
+             "dealerAddress": "145 Adelaide Road, Murray Bridge, SA 5253",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:00pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "08 8532 5722",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/bridgeland-motorcycles/",
+             "dealerID": 24,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                144.466,
+                -37.256
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Bolton Motorcycles",
+             "dealerAddress": "10 Bourke Street, Kyneton, VIC 3444",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30 am - 5:30pm",
+             "dealerHoursSat": "9:00 am - 1:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 5422 2255 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/bolton-motorcycles/",
+             "dealerID": 25,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                138.01,
+                -33.194
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Boats ‘N’ Bikes Port Pirie",
+             "dealerAddress": "30 Wandearah Road, Port Pirie, SA 5540",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:00pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "08 8633 1211",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/boats-n-bikes-port-pirie/",
+             "dealerID": 26,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                140.787,
+                -37.817
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Blue City Motorcycles",
+             "dealerAddress": "110 Penola Road, Mount Gambier, SA 5290",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:00pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "08 8725 0299",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/blue-city-motorcycles/",
+             "dealerID": 27,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                147.296,
+                -42.849
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Bikeworks Motorcycles",
+             "dealerAddress": "2 Florence Street, Moonah, TAS 7009",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "9:00 am - 1:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 6228 6626",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/bikeworks-motorcycles/",
+             "dealerID": 28,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                151.003,
+                -33.82
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "BikeBiz Motorcycles",
+             "dealerAddress": "7-11 Great Western Highway, Parramatta, NSW 2150",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:00pm",
+             "dealerHoursSat": "8:30am - 4:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 8830 0500",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/bikebiz-motorcycles/",
+             "dealerID": 29,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                139.494,
+                -20.724
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Bike and Rider",
+             "dealerAddress": "45 Simpson Street, Mount Isa, QLD 4825",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 4743 5525 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/bike-and-rider/",
+             "dealerID": 30,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                149.58,
+                -33.412
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Beard Brothers Motorcycles",
+             "dealerAddress": "123 Durham Street, Barhurst, NSW 2794",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:30pm",
+             "dealerHoursSat": "8:00am - 12:30pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 6331 6421",
+             "dealerURL": "",
+             "dealerID": 31,
+             "wp-post-id": "",
+             "dealerCode": "https://www.suzukimotorcycles.com.au/dealer/beard-brothers-motorcycles/"
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                149.824,
+                -36.666
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Bega Motorcycles",
+             "dealerAddress": "14-18 Ridge Street, Bega, NSW 2550",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 6492 3122",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/bega-motorcycles/",
+             "dealerID": 32,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                142.021,
+                -37.743
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Barry Francis Motorcycles",
+             "dealerAddress": "52-54 Lonsdale Street, Hamilton, VIC 3300",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "Closed",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 5572 1899",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/barry-francis-motorcycles/",
+             "dealerID": 33,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                143.839,
+                -37.542
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Ballarat Motorcycles",
+             "dealerAddress": "1011 Howitt Street, Wendouree, VIC 3355",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "9:00am - 5:00pm",
+             "dealerHoursSat": "Closed",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 5339 4072 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/ballarat-motorcycles/",
+             "dealerID": 34,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                145.481,
+                -17.269
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Cole Motorcycles",
+             "dealerAddress": "Crn Vernon & Louise Streets, Atherton, QLD 4883",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 4030 5400 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/cole-motorcycles/",
+             "dealerID": 35,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                148.686,
+                -33.833
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "All Service Motors",
+             "dealerAddress": "1 Redfern St, Cowra, NSW 2794",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5.30pm",
+             "dealerHoursSat": "8:30am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 6342 2590 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/all-service-motors/",
+             "dealerID": 36,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                117.877,
+                -35.016
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Albany Motorcycles",
+             "dealerAddress": "174 Albany Hwy, Albany, WA 6330",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 6:00pm",
+             "dealerHoursSat": "8:30am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "08 9842 2914 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/albany-motorcycles/",
+             "dealerID": 37,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                151.247,
+                -27.185
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Advance Motors",
+             "dealerAddress": "4 Loudoun Road, Dalby, QLD 4405",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:00pm",
+             "dealerHoursSat": "8:30am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": " 07 4662 1255",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/advance-motors/",
+             "dealerID": 39,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                145.106,
+                -37.815
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Mick Hone Motorcycles",
+             "dealerAddress": "715 Whitehorse Road, Mont Albert, VIC 3127",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8.30am - 5.30pm",
+             "dealerHoursMon": "8.30am - 5.30pm",
+             "dealerHoursTue": "8.30am - 5.30pm",
+             "dealerHoursWed": "8.30am - 5.30pm",
+             "dealerHoursThu": "8.30am - 5.30pm",
+             "dealerHoursFri": "8.30am- 6.30pm",
+             "dealerHoursSat": "8:30am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 9890 0304",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/mick-hone-motorcycles/",
+             "dealerID": 41,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                138.614,
+                -33.836
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "WG Bikes & Gear",
+             "dealerAddress": "188 Main North Road, Clare, SA 5453",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "8:00am - 11:30pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "08  8842 3405",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/wg-bikes-gear/",
+             "dealerID": 42,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                152.692,
+                -26.224
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Team Moto Wide Bay",
+             "dealerAddress": "Cnr Bruce Hwy & Hall Rd, Gympie, QLD 4570",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "8:00am - 1:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 5483 8063",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/wide-bay-motorcycles/",
+             "dealerID": 43,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                146.924,
+                -36.08
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Whitehouse Motorcycles",
+             "dealerAddress": "523-533 Young Street, Albury, NSW 2640",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8.30am - 5.30pm",
+             "dealerHoursSat": "9:00am - 2:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 6021 7588 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/whitehouse-motorcycles/",
+             "dealerID": 44,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                150.923,
+                -31.109
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Western Ranges Motorcycles",
+             "dealerAddress": "244 Goonoo Goonoo Rd, Tamworth, NSW 2340",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:00pm",
+             "dealerHoursSat": "8:30am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 6762 1557 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/western-ranges-motorcycles/",
+             "dealerID": 45,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                149.102,
+                -33.296
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Victory Lane Motorcycles",
+             "dealerAddress": "28 Peisley Street, Orange, NSW 2800",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:00pm",
+             "dealerHoursSat": "8:30am - 12:30pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 6369 1903",
+             "dealerURL": "suzukimotorcycles.com.au/dealer/victory-lane-motorcycles/",
+             "dealerID": 46,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                150.674,
+                -33.77
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Western Motorcycles",
+             "dealerAddress": "283 Mulgoa Road, Penrith, NSW 2750",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "8:30am - 4:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 4733 1733",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/western-motorcycles/",
+             "dealerID": 47,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                115.757,
+                -32.277
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Western Edge Motorcycles",
+             "dealerAddress": "3 Day Road, Rockingham, WA 6168",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:30pm",
+             "dealerHoursSat": "8:30am - 1:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "08 9527 5093 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/western-edge-motorcycles/",
+             "dealerID": 48,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                145.769,
+                -16.921
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Wayne Leonard Motorcycles",
+             "dealerAddress": "32-34 Water St, Cairns, QLD 4870",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "8:30am - 12:30pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 4051 2741",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/wayne-leonard-motorcycles/",
+             "dealerID": 49,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                151.12,
+                -29.768
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Vince Strang Motorcycles",
+             "dealerAddress": "259 Byron Street, Inverell, NSW 2360",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "8:30am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 6721 0610",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/vince-strang-motorcycles/",
+             "dealerID": 50,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                146.788,
+                -37.981
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Vern Graham Suzuki",
+             "dealerAddress": "30-36 George St, Heyfield, VIC 3858",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:30pm",
+             "dealerHoursSat": "8:30am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 5148 1100 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/vern-graham-suzuki/",
+             "dealerID": 52,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                152.747,
+                -27.623
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Ultimate Suzuki Ipswich",
+             "dealerAddress": "359 Brisbane St, West Ipswich, QLD 4305",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "8:30am - 4:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 3050 4196",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/ultimate-suzuki-ipswich/",
+             "dealerID": 53,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                150.314,
+                -28.538
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Twidale Auto & Motorcycles",
+             "dealerAddress": "8-12 Old Cunningham Highway, Goondiwindi, QLD 4390",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "8:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 4671 4778",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/twidale-auto-motorcycles/",
+             "dealerID": 54,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                153.061,
+                -27.367
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Teammoto Suzuki Virginia",
+             "dealerAddress": "1916 Sandgate Road, Virginia, QLD 4014",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "8:30am - 4:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 3259 2985",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/teammoto-suzuki-virginia/",
+             "dealerID": 55,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                144.725,
+                -37.871
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Team One Motorcycles",
+             "dealerAddress": "357-359 Old Geelong Road, Hoppers Crossing, VIC 3029",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "9:00am - 5:30pm",
+             "dealerHoursSat": "9:00am - 1:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 9369 6963 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/team-one-motorcycles/",
+             "dealerID": 56,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                149.168,
+                -35.325
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Teammoto Canberra",
+             "dealerAddress": "30 Ipswich St, Fyshwick, ACT 2609",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "8:30am - 3:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 6280 4491",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/teammoto-canberra/",
+             "dealerID": 57,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                146.241,
+                -26.4
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Tas Mini Motors",
+             "dealerAddress": "103 Alfred St, Charleville, QLD 4470",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 4654 1732",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/tas-mini-motors/",
+             "dealerID": 58,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                151.164,
+                -33.811
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Sydney City Motorcycles Lane Cove",
+             "dealerAddress": "1A Epping Road, Lane Cove, NSW 2066",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "8:30am - 4:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 9900 8000",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/sydney-city-motorcycles-lane-cove/",
+             "dealerID": 59,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                151.123,
+                -34.033
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Sydney City Motorcycles Caringbah",
+             "dealerAddress": "78 Captain Cook Drive, Caringbah, NSW 2229",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "8:30am - 4:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 9330 9100",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/sydney-city-motorcycles-caringbah/",
+             "dealerID": 60,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                150.821,
+                -34.056
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Sydney City Motorcycles Campbelltown",
+             "dealerAddress": "1B 14 Blaxland Rd, Campbelltown, NSW 2560",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursMon": "8:30am - 5:30pm",
+             "dealerHoursTue": "8:30am - 5:30pm",
+             "dealerHoursWed": "8:30am - 5:30pm",
+             "dealerHoursThu": "8:30 am - 7:00pm",
+             "dealerHoursFri": "8:30 am - 7:00pm",
+             "dealerHoursSat": "8:30am - 4:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 4646 8100",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/sydney-city-motorcycles-camptown/",
+             "dealerID": 61,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                151.652,
+                -30.517
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Super Moto New England",
+             "dealerAddress": "207 Mann St, Armidale, NSW 2350",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "8:30am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 6772 5988",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/super-moto-new-england/",
+             "dealerID": 62,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                153.342,
+                -28.002
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Sunstate Motorcycles Gold Coast",
+             "dealerAddress": "Unit 28/12 Lawrence Drive, Nerang, QLD 4211",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:30pm",
+             "dealerHoursSat": "8:00am - 3:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 5520 2300 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/sunstate-motorcycles-gold-coast/",
+             "dealerID": 63,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                153.098,
+                -26.66
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Sunstate Motorcycles Maroochydore",
+             "dealerAddress": "76 Aerodrome Road, Maroochydore, QLD 4558",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:30pm",
+             "dealerHoursSat": "8:00am - 3:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 5479 4344 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/sunstate-motorcycles-maroochydore/",
+             "dealerID": 64,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                152.828,
+                -25.284
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Sunstate Motorcycles Hervey Bay",
+             "dealerAddress": "81 Old Maryborough Rd, Harvey Bay, QLD 4655",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:30pm",
+             "dealerHoursSat": "8:00am - 1:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 4124 2322",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/sunstate-motorcycles-hervey-bay/",
+             "dealerID": 65,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                114.631,
+                -28.758
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Sun City Motorcycles",
+             "dealerAddress": "1/69 Flores Road, Geraldton, WA 6530",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:00pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "08 9921 6888",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/sun-city-motorcycles/",
+             "dealerID": 66,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                153.116,
+                -27.617
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Springwood Suzuki",
+             "dealerAddress": "112 Kingston Road, Underwood, QLD 4119",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "8:00am - 1:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 3208 7999",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/springwood-suzuki/",
+             "dealerID": 67,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                141.465,
+                -31.954
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Silver City Motorcycles",
+             "dealerAddress": "97A Oxide St, Broken Hill, NSW 2880",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "9:00am - 3:00pm",
+             "dealerHoursSun": "10:00am - 2:00pm",
+             "dealerPhone": "08 8087 5220",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/silver-city-motorcycles/",
+             "dealerID": 68,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                147.517,
+                -41.158
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Scottsdale Suzuki",
+             "dealerAddress": "1 Ellenor St, Scottsdale, TAS 7260",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 6:00pm",
+             "dealerHoursSat": "By Appointment",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 6352 3070",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/scottsdale-suzuki/",
+             "dealerID": 69,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                150.865,
+                -32.05
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Scone Outdoors",
+             "dealerAddress": "100 Liverpool St , Scone, NSW 2337",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "8:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 6545 3033 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/scone-outdoors/",
+             "dealerID": 70,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                116.029,
+                -31.894
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Savage Suzuki",
+             "dealerAddress": "Corner 3 Stanhope Gardens & Great Eastern Hwy, Midvale, WA 6056",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am – 5:30pm",
+             "dealerHoursSat": "8:00am - 12:30pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "08 9274 4866",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/savage-suzuki/",
+             "dealerID": 71,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                150.51,
+                -23.383
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Rosenberg Motorcycles",
+             "dealerAddress": "123 William St, Rockhampton, QLD 4700",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:00pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 4922 7619",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/rosenberg-motorcycles/",
+             "dealerID": 72,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                144.697,
+                -36.365
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Rochester Motorcycles",
+             "dealerAddress": "12 Moore St, Rochester, VIC 3561",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 5484 1745",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/rochester-motorcycles/",
+             "dealerID": 73,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                148.63,
+                -32.248
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Robertson’s Motorcycles",
+             "dealerAddress": "75 Wheelers Lane, Dubbo, NSW 2830",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "8:30am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 6884 2933",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/robertsons-motorcycles/",
+             "dealerID": 74,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                115.828,
+                -31.913
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Rick Gill Motorcycles",
+             "dealerAddress": "11-13  Main St, Osborne Park, WA 6017",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "8:30am - 1:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "08 9443 3555 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/rick-gill-motorcycles/",
+             "dealerID": 75,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                142.516,
+                -38.384
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "MCM Sales and Service",
+             "dealerAddress": "153 Raglan Parade, Warrnambool, VIC 3280",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 5562 0222",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/mcm-sales-and-service/",
+             "dealerID": 77,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                145.217,
+                -37.995
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Peter Stevens Motorcycles Dandenong",
+             "dealerAddress": "109 Lonsdale St, Dandenong, VIC 3175",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "9:00am - 5:30pm",
+             "dealerHoursSat": "9:00am - 4:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 9791 7722",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/peter-stevens-motorcycles-dandenong/",
+             "dealerID": 78,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                138.591,
+                -34.928
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Peter Stevens Motorcycles Adelaide",
+             "dealerAddress": "221 Franklin St, Adelaide, SA 5000",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "9:00am - 5:30pm",
+             "dealerHoursSat": "9:00am - 4:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "08 8212 1494 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/peter-stevens-motorcycles-adelaide/",
+             "dealerID": 79,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                145.252,
+                -37.799
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Peter Stevens Motorcycles Ringwood",
+             "dealerAddress": "507-511 Maroondah Hwy, Ringwood, VIC 3134",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "9:00am - 4:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 9870 0222 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/peter-stevens-motorcycles-ringwood/",
+             "dealerID": 80,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                144.355,
+                -38.141
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Peter Stevens Motorcycles Geelong",
+             "dealerAddress": "36 Mercer St, Geelong, VIC 3220",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "9:00am - 5:30pm",
+             "dealerHoursSat": "9:00am - 1:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 5221 0400 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/peter-stevens-motorcycles-geelong/",
+             "dealerID": 81,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                148.174,
+                -33.139
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Pat Kinsela Motorcycles",
+             "dealerAddress": "41-43 Welcome St, Parkes, NSW 2870",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 6862 1800 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/pat-kinsela-motorcycles/",
+             "dealerID": 82,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                142.936,
+                -37.284
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Ord’s Motorcycles",
+             "dealerAddress": "253 Barkly St, Ararat, VIC 3377",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 5352 2732 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/ords-motorcycles/",
+             "dealerID": 83,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                130.916,
+                -12.43
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "NT Motorcycle Centre",
+             "dealerAddress": "637 Stuart Highway, Berrimah, NT 0828",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "8:30am - 1:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "08 8939 0390",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/nt-motorcycle-centre/",
+             "dealerID": 84,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                146.169,
+                -41.158
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "North West Motorcycles",
+             "dealerAddress": "4 Reibey St, Ulverstone, TAS 7315",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "9:00am - 1:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 6425 3337 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/north-west-motorcycles/",
+             "dealerID": 86,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                145.936,
+                -17.927
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Nitro Motorcycles",
+             "dealerAddress": "1/59504 Bruce Highway, Tully, QLD 4854",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "9:00am - 11:00am",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 4068 3522 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/nitro-motorcycles/",
+             "dealerID": 87,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                144.965,
+                -37.752
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "MotoInk Motorcycles",
+             "dealerAddress": "117 - 119 Sydney Road, Coburg, VIC 3058",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "10:00am - 5:00pm",
+             "dealerHoursMon": "10:00am - 5:00pm",
+             "dealerHoursTue": "10:00am - 5:00pm",
+             "dealerHoursWed": "10:00am - 5:00pm",
+             "dealerHoursThu": "10:00am - 7:00pm",
+             "dealerHoursFri": "10:00am - 5:00pm",
+             "dealerHoursSat": "10:30am - 3:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 9383 3311 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/motoink-motorcycles/",
+             "dealerID": 89,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                150.89,
+                -34.403
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Motocity Wollongong",
+             "dealerAddress": "3-5 Mount Ousley Road, Fairy Meadow, NSW 2519",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "8:30am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 4228 9683",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/motocity-wollongong/",
+             "dealerID": 90,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                150.979,
+                -33.73
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Moto Hub",
+             "dealerAddress": "7/4 Victoria Ave, Castle Hill, NSW 2154",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "9:00am - 3:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 9899 2333 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/moto-hub/",
+             "dealerID": 91,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                144.124,
+                -35.631
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Molin Motorcycle & Marine",
+             "dealerAddress": "3-5 Grigg Road, Koondrook, VIC 3580",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:30pm",
+             "dealerHoursSat": "8:30am - 12:30pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 5451 1500 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/molin-motorcycle-marine/",
+             "dealerID": 92,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                115.899,
+                -31.979
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "McCulloch Suzuki",
+             "dealerAddress": "577 Albany Hwy, Victoria Park, WA 6100",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "8:00am - 1:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "08 9361 1972 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/mcculloch-suzuki/",
+             "dealerID": 93,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                146.432,
+                -38.234
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Massaro Suzuki (Motorcycles)",
+             "dealerAddress": "497 Princes Drive, Morwell, VIC 3840",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:00pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 5191 9369",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/massaro-suzuki-motorcycles/",
+             "dealerID": 94,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                145.943,
+                -38.473
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Marriotts Motorcycles & Power Equipment",
+             "dealerAddress": "34 Anderson St, Leongatha, VIC 3953",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "9:00am - 5:00pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 5662 2028",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/marriotts-motorcycles-power-equipment/",
+             "dealerID": 95,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                151.559,
+                -32.735
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Maitland Motorcycles",
+             "dealerAddress": "339 High St, Maitland, NSW 2320",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:00pm",
+             "dealerHoursSat": "8:30am - 12:30pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 4933 1998",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/maitland-motorcycles/",
+             "dealerID": 96,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                153.265,
+                -28.82
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Lismore Motorcycles",
+             "dealerAddress": "3 Three Chain Road, South Lismore, NSW 2480",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 6621 8553",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/lismore-motorcycles/",
+             "dealerID": 98,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                135.853,
+                -34.737
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Lincoln Mower & Motorcycle Centre",
+             "dealerAddress": "112 Mortlock Terrace, Port Lincoln, SA 5606",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "08 8682 5274",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/lincoln-mower-motorcycle-centre/",
+             "dealerID": 99,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                151.837,
+                -26.539
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Kingaroy Motorcycles",
+             "dealerAddress": "200 Haly St, Kingaroy, QLD 4610",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "8:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 4162 2208",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/kingaroy-motorcycles/",
+             "dealerID": 100,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                138.638,
+                -34.871
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Kessner Suzuki",
+             "dealerAddress": "320 North East Road, Klemzig, SA 5087",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "9:00am - 1:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "08 8261 9955 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/kessner-suzuki/",
+             "dealerID": 101,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                146.062,
+                -34.29
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "K & J Thomas Motorcycles",
+             "dealerAddress": "2110 Plenty Road, Whittlesea, VIC 3757",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:30pm",
+             "dealerHoursSat": "8:30am - 2:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 9716 2019",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/k-j-thomas-motorcycles/",
+             "dealerID": 103,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+       {
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              146.260,  
+              -38.163
+           ]
+        },
+        "type": "Feature",
+        "properties": {
+           "category": "dealer",
+           "dealerName": "J & C Motorcycles",
+           "dealerAddress": "134 Moore St, Moe, Vic 3825",
+           "dealerStreet": "",
+           "dealerCity": "",
+           "dealerState": "",
+           "dealerPostcode": "",
+           "dealerHoursMontoFri": "8:30am - 5:30pm",
+           "dealerHoursSat": "8:30am - 1:00pm",
+           "dealerHoursSun": "Closed",
+           "dealerPhone": "03 5127 8208",
+           "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/j-c-motorcycles/",
+           "dealerID": 114,
+           "wp-post-id": "",
+           "dealerCode": ""
+        }
+     },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                146.158,
+                -18.649
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Ingham Motorcycles & Mower",
+             "dealerAddress": "31 Herbert St, Ingham, QLD 4850",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "8:30am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 4776 2973",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/ingham-motorcycles-mowers/",
+             "dealerID": 104,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                144.249,
+                -23.443
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Horsepower Longreach",
+             "dealerAddress": "26 Swan Street, Longreach, QLD 4730",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "9:00am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 4658 1732 ",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/horsepower-longreach/",
+             "dealerID": 105,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                152.892,
+                -31.432
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Port Macquarie Motorcycles",
+             "dealerAddress": "59 Hastings River Drive, Port Macquarie, NSW 2444",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:30am - 5:00pm",
+             "dealerHoursSat": "8:30am - 12:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "02 6583 6060",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/port-macquarie-motorcycles/",
+             "dealerID": 109,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                151.202,
+                -33.89
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Close Motorcycles",
+             "dealerAddress": "Unit 8, 1-19 Regent ST, Redfern, NSW 2016",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "10:00am - 3:00pm",
+             "dealerHoursSun": "Close",
+             "dealerPhone": "02 9319 6811",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/close-motorcycles/",
+             "dealerID": 110,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                152.325,
+                -24.887
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Cheshire Machinery",
+             "dealerAddress": "15 Enterprise St, Svensson Heights, QLD 4670",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "8:00am - 5:00pm",
+             "dealerHoursSat": "8:00am - 11:00am",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "07 4153 6933",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/cheshire-machinery/",
+             "dealerID": 111,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       },
+        {
+          "geometry": {
+             "type": "Point",
+             "coordinates": [
+                144.951,
+                -37.83
+             ]
+          },
+          "type": "Feature",
+          "properties": {
+             "category": "dealer",
+             "dealerName": "Advent Motorcycles",
+             "dealerAddress": "162 Ferrars Road, South Melbourne, VIC, 3205",
+             "dealerStreet": "",
+             "dealerCity": "",
+             "dealerState": "",
+             "dealerPostcode": "",
+             "dealerHoursMontoFri": "9:00am - 5:00pm",
+             "dealerHoursSat": "9:00am - 2:00pm",
+             "dealerHoursSun": "Closed",
+             "dealerPhone": "03 9699 6000",
+             "dealerURL": "https://www.suzukimotorcycles.com.au/dealer/advent-motorcycles/",
+             "dealerID": 112,
+             "wp-post-id": "",
+             "dealerCode": ""
+          }
+       }
+    ]
+}
